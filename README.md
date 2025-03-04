@@ -10,7 +10,7 @@
 <img src="assets/mllmts.png" style="width: 60%;height: 60%">
 </div>
 
-<p align="center"><b>Time series exhibits diverse modalities, including numbers, text, images, graphs, audio, and tables, enabling multimodal LLMs to process them effectively</b></p>
+<p align="center"><b>Time series, traditionally represented as a temporally ordered sequence of numbers, can be flexibly expressed across diverse modalities, including text, images, graphs, audio, and tables</b></p>
 
 ## 👂**TL;DR**
 - 🙋‍♂ This [paper list](#papers) compiles time series research in various modalities and representative MLLMs compatible with those modelities
