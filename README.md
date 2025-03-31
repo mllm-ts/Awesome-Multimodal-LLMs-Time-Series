@@ -283,7 +283,7 @@
     *Manqing Dong, Hao Huang, Longbing Cao*.
     [[paper](https://arxiv.org/abs/2408.03475)]
 
-### Contributing to this paper list
+## 👏 Contributing to this paper list
 There may be cases where we overlook important work in this rapidly evolving field. Please feel free to share your awesome work or relevant contributions here! Thanks in advance for your efforts!
 
 ## 📝 Citation  
