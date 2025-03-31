@@ -285,3 +285,14 @@
 
 ### Contributing to this paper list
 There may be cases where we overlook important work in this rapidly evolving field. Please feel free to share your awesome work or relevant contributions here! Thanks in advance for your efforts!
+
+## 📝 Citation  
+If you find our work useful, please cite the below paper:
+```bibtex
+@misc{xu2025beyond,
+  title={Beyond Numbers: A Survey of Time Series Analysis in the Era of Multimodal LLMs},
+  author={Xu, Xiongxiao and Zhao, Yue and Yu, Philip S and Shu, Kai},
+  url={https://mllm-ts.github.io/},
+  year={2025}
+}
+```
