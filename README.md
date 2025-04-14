@@ -156,6 +156,9 @@
 - **See it, Think it, Sorted: Large Multimodal Models are Few-shot Time Series Anomaly Analyzers**  
     *Jiaxin Zhuang, Leon Yan, Zhenwei Zhang, Ruiqi Wang, Jiawei Zhang, Yuantao Gu*.
     [[paper](https://arxiv.org/abs/2411.02465)]
+- **A Picture is Worth A Thousand Numbers: Enabling LLMs Reason about Time Series via Visualization**  
+    *Haoxin Liu, Chenghao Liu, B. Aditya Prakash*.
+    [[paper](https://arxiv.org/abs/2411.06018)]
 - **On the Feasibility of Vision-Language Models for Time-Series Classification**  
     *Vinay Prithyani, Mohsin Mohammed, Richa Gadgil, Ricardo Buitrago, Vinija Jain, Aman Chadha*.
     [[paper](https://arxiv.org/abs/2412.17304)] [[code](https://github.com/vinayp17/VLM_TSC)]
@@ -269,6 +272,10 @@
 - **Towards Time Series Reasoning with LLMs**  
     *Winnie Chow, Lauren Gardiner, Haraldur T. Hallgrímsson, Maxwell A. Xu, Shirley You Ren*.
     [[paper](https://arxiv.org/abs/2409.11376)]
+- **Evaluating System 1 vs. 2 Reasoning Approaches for Zero-Shot Time Series Forecasting: A Benchmark and Insights**  
+    *Haoxin Liu, Zhiyuan Zhao, Shiduo Li, B. Aditya Prakash*.
+    [[paper](https://arxiv.org/abs/2503.01895)]
+
 
 ### Agents
 - **Agentic Retrieval-Augmented Generation for Time Series Analysis**  
