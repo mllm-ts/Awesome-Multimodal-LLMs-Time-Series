@@ -272,6 +272,9 @@
 - **Towards Time Series Reasoning with LLMs**  
     *Winnie Chow, Lauren Gardiner, Haraldur T. Hallgrímsson, Maxwell A. Xu, Shirley You Ren*.
     [[paper](https://arxiv.org/abs/2409.11376)]
+- **Position: Empowering Time Series Reasoning with Multimodal LLMs**  
+    *Yaxuan Kong, Yiyuan Yang, Shiyu Wang, Chenghao Liu, Yuxuan Liang, Ming Jin, Stefan Zohren, Dan Pei, Yan Liu, Qingsong Wen*.
+    [[paper](https://arxiv.org/abs/2502.01477)]
 - **Evaluating System 1 vs. 2 Reasoning Approaches for Zero-Shot Time Series Forecasting: A Benchmark and Insights**  
     *Haoxin Liu, Zhiyuan Zhao, Shiduo Li, B. Aditya Prakash*.
     [[paper](https://arxiv.org/abs/2503.01895)]
