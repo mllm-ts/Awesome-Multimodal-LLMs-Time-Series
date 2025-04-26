@@ -277,13 +277,16 @@
     [[paper](https://arxiv.org/abs/2502.01477)]
 - **Evaluating System 1 vs. 2 Reasoning Approaches for Zero-Shot Time Series Forecasting: A Benchmark and Insights**  
     *Haoxin Liu, Zhiyuan Zhao, Shiduo Li, B. Aditya Prakash*.
-    [[paper](https://arxiv.org/abs/2503.01895)]
+    [[paper](https://arxiv.org/abs/2503.01895)] [[code](https://github.com/AdityaLab/OpenTimeR)]
 
 
 ### Agents
 - **Agentic Retrieval-Augmented Generation for Time Series Analysis**  
     *Chidaksh Ravuru, Sagar Srinivas Sakhinana, Venkataramana Runkana*.
     [[paper](https://arxiv.org/abs/2408.14484)]
+- **LLM Knows Geometry Better than Algebra: Numerical Understanding of LLM-Based Agents in A Trading Arena**  
+    *Tianmi Ma, Jiawei Du, Wenxin Huang, Wenjie Wang, Liang Xie, Xian Zhong, Joey Tianyi Zhou*.
+    [[paper](https://arxiv.org/abs/2502.17967)] [[code](https://github.com/wekjsdvnm/Agent-Trading-Arena)]
 
 ### Interpretability and Hallucination
 - **Large Language Models can Deliver Accurate and Interpretable Time Series Anomaly Detection**  
