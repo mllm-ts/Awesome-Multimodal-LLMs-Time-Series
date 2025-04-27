@@ -287,6 +287,10 @@
 - **LLM Knows Geometry Better than Algebra: Numerical Understanding of LLM-Based Agents in A Trading Arena**  
     *Tianmi Ma, Jiawei Du, Wenxin Huang, Wenjie Wang, Liang Xie, Xian Zhong, Joey Tianyi Zhou*.
     [[paper](https://arxiv.org/abs/2502.17967)] [[code](https://github.com/wekjsdvnm/Agent-Trading-Arena)]
+- **FinArena: A Human-Agent Collaboration Framework for Financial Market Analysis and Forecasting**  
+    *Congluo Xu, Zhaobin Liu, Ziyang Li*.
+    [[paper](https://arxiv.org/abs/2503.02692)]
+
 
 ### Interpretability and Hallucination
 - **Large Language Models can Deliver Accurate and Interpretable Time Series Anomaly Detection**  
