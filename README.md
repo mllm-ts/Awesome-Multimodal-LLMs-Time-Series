@@ -306,10 +306,11 @@ There may be cases where we overlook important work in this rapidly evolving fie
 ## 📝 Citation  
 If you find our work useful, please cite the below paper:
 ```bibtex
-@misc{xu2025beyond,
+@article{xu2025beyond,
   title={Beyond Numbers: A Survey of Time Series Analysis in the Era of Multimodal LLMs},
-  author={Xu, Xiongxiao and Zhao, Yue and Yu, Philip S and Shu, Kai},
-  url={https://mllm-ts.github.io/},
-  year={2025}
+  author={Xu, Xiongxiao and Zhao, Yue and Philip, S Yu and Shu, Kai},
+  journal={Authorea Preprints},
+  year={2025},
+  publisher={Authorea}
 }
 ```
