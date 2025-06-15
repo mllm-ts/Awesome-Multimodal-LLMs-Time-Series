@@ -170,7 +170,7 @@
     [[paper](https://arxiv.org/abs/2307.09018)]
 - **Harnessing Vision-Language Models for Time Series Anomaly Detection**  
     *Zelin He, Sarah Alnegheimish, Matthew Reimherr*.
-    [[paper](https://arxiv.org/abs/2506.06836)]
+    [[paper](https://arxiv.org/abs/2506.06836)] [[code](https://github.com/ZLHe0/VLM4TS)]
 
 #### Graphs
 - **GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation**  
