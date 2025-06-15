@@ -168,6 +168,9 @@
 - **Multimodal LLMs for health grounded in individual-specific data**  
     *Anastasiya Belyaeva, Justin Cosentino, Farhad Hormozdiari, Krish Eswaran, Shravya Shetty, Greg Corrado, Andrew Carroll, Cory Y. McLean, Nicholas A. Furlotte*.
     [[paper](https://arxiv.org/abs/2307.09018)]
+- **Harnessing Vision-Language Models for Time Series Anomaly Detection**  
+    *Zelin He, Sarah Alnegheimish, Matthew Reimherr*.
+    [[paper](https://arxiv.org/abs/2506.06836)]
 
 #### Graphs
 - **GATGPT: A Pre-trained Large Language Model with Graph Attention Network for Spatiotemporal Imputation**  
