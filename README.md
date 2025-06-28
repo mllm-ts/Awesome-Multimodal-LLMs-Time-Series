@@ -281,6 +281,9 @@
 - **Evaluating System 1 vs. 2 Reasoning Approaches for Zero-Shot Time Series Forecasting: A Benchmark and Insights**  
     *Haoxin Liu, Zhiyuan Zhao, Shiduo Li, B. Aditya Prakash*.
     [[paper](https://arxiv.org/abs/2503.01895)] [[code](https://github.com/AdityaLab/OpenTimeR)]
+- **Time-R1: Towards Comprehensive Temporal Reasoning in LLMs**  
+    *Zijia Liu, Peixuan Han, Haofei Yu, Haoru Li, Jiaxuan You*.
+    [[paper](https://arxiv.org/abs/2505.13508)] [[code](https://github.com/ulab-uiuc/Time-R1)]
 
 
 ### Agents
