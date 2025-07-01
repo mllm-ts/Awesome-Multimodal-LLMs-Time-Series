@@ -284,6 +284,9 @@
 - **Time-R1: Towards Comprehensive Temporal Reasoning in LLMs**  
     *Zijia Liu, Peixuan Han, Haofei Yu, Haoru Li, Jiaxuan You*.
     [[paper](https://arxiv.org/abs/2505.13508)] [[code](https://github.com/ulab-uiuc/Time-R1)]
+- **Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs**  
+    *Yucong Luo, Yitong Zhou, Mingyue Cheng, Jiahao Wang, Daoyu Wang, Tingyue Pan, Jintao Zhang*.
+    [[paper](https://arxiv.org/abs/2506.10630)] [[code](https://github.com/lqzxt/Time-R1)]
 
 
 ### Agents
