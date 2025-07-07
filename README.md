@@ -112,6 +112,9 @@
 - **Context-Alignment: Activating and Enhancing LLM Capabilities in Time Series**  
     *Yuxiao Hu, Qian Li, Dongxiao Zhang, Jinyue Yan, Yuntian Chen*.
     [[paper](https://arxiv.org/abs/2501.03747)]
+- **Random Initialization Can’t Catch Up: The Advantage of Language Model Transfer for Time Series Forecasting**  
+    *Roland Riachi, Kashif Rasul, Arjun Ashok, Prateek Humane, Alexis Roger, Andrew R. Williams, Yuriy Nevmyvaka, Irina Rish*.
+    [[paper](https://arxiv.org/abs/2506.21570)]
 - **Leveraging Language Foundation Models for Human Mobility Forecasting**  
     *Hao Xue, Bhanu Prakash Voutharoja, Flora D. Salim*.
     [[paper](https://arxiv.org/abs/2209.05479)] [[code](https://github.com/cruiseresearchgroup/AuxMobLCast)]
