@@ -108,7 +108,7 @@
     [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/30383)]
 - **TimeCMA: Towards LLM-Empowered Multivariate Time Series Forecasting via Cross-Modality Alignment**  
     *Chenxi Liu, Qianxiong Xu, Hao Miao, Sun Yang, Lingzheng Zhang, Cheng Long, Ziyue Li, Rui Zhao*.
-    [[paper](https://arxiv.org/abs/2406.01638)]
+    [[paper](https://arxiv.org/abs/2406.01638)] [[code](https://github.com/ChenxiLiu-HNU/TimeCMA)]
 - **ChatTime: A Unified Multimodal Time Series Foundation Model Bridging Numerical and Textual Data**  
     *Chengsen Wang, Qi Qi, Jingyu Wang, Haifeng Sun, Zirui Zhuang, Jinming Wu, Lei Zhang, Jianxin Liao*.
     [[paper](https://arxiv.org/abs/2412.11376)] [[code](https://github.com/ForestsKing/ChatTime)]
