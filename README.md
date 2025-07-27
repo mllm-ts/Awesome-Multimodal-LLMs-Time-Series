@@ -68,6 +68,9 @@
 - **Time-MoE: Billion-Scale Time Series Foundation Models with Mixture of Experts**  
   *Xiaoming Shi, Shiyu Wang, Yuqi Nie, Dianqi Li, Zhou Ye, Qingsong Wen, Ming Jin*.
   [[paper](https://arxiv.org/abs/2409.16040)] [[code](https://github.com/Time-MoE/Time-MoE)]
+- **Pre-training Time Series Models with Stock Data Customization**  
+  *Mengyu Wang, Tiejun Ma, Shay B. Cohen*.
+  [[paper](https://www.arxiv.org/abs/2506.16746)] [[code](https://github.com/astudentuser/Pre-training-Time-Series-Models-with-Stock-Data-Customization)]
 
 #### Text
 - **PromptCast: A New Prompt-based Learning Paradigm for Time Series Forecasting**  
