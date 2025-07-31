@@ -302,6 +302,9 @@
 - **Agentic Retrieval-Augmented Generation for Time Series Analysis**  
     *Chidaksh Ravuru, Sagar Srinivas Sakhinana, Venkataramana Runkana*.
     [[paper](https://arxiv.org/abs/2408.14484)]
+- **Argos: Agentic Time-Series Anomaly Detection with Autonomous Rule Generation via Large Language Models**  
+    *Yile Gu, Yifan Xiong, Jonathan Mace, Yuting Jiang, Yigong Hu, Baris Kasikci, Peng Cheng*.
+    [[paper](https://arxiv.org/abs/2501.14170)]
 - **LLM Knows Geometry Better than Algebra: Numerical Understanding of LLM-Based Agents in A Trading Arena**  
     *Tianmi Ma, Jiawei Du, Wenxin Huang, Wenjie Wang, Liang Xie, Xian Zhong, Joey Tianyi Zhou*.
     [[paper](https://arxiv.org/abs/2502.17967)] [[code](https://github.com/wekjsdvnm/Agent-Trading-Arena)]
