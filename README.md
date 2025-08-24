@@ -296,6 +296,9 @@
 - **Time Series Forecasting as Reasoning: A Slow-Thinking Approach with Reinforced LLMs**  
     *Yucong Luo, Yitong Zhou, Mingyue Cheng, Jiahao Wang, Daoyu Wang, Tingyue Pan, Jintao Zhang*.
     [[paper](https://arxiv.org/abs/2506.10630)] [[code](https://github.com/lqzxt/Time-R1)]
+- **Can Large Language Models Adequately Perform Symbolic Reasoning Over Time Series?**  
+    *Zewen Liu, Juntong Ni, Xianfeng Tang, Max S.Y. Lau, Wenpeng Yin, Wei Jin*.
+    [[paper](https://arxiv.org/abs/2508.03963)]
 
 
 ### Agents
